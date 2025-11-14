@@ -3,9 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=svg&size=60&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+%3A3" alt="Typing SVG" /></a>
 </a>
 
-<p align="center">
-  <img src="assets/melancholy.jpg" width="350" style="border-radius: 56px;">
-</p>
+<img src="assets/melancholy.jpg" width="350" style="border-radius: 12px;">
 
 ---
 
