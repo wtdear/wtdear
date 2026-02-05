@@ -9,7 +9,6 @@
 ## 🕸️ Contacts
 
 [<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/kolbaya1)
-[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/wtdear/)
 [<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:den.kolbaya@yandex.ru)
 
 ---
