@@ -10,7 +10,7 @@
 ## 🕸️ Contacts
 
 [<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/kolbaya1)
-[<img src="https://img.shields.io/badge/Telegram%20Channel-000000?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/waytofreed)
+[<img src="https://img.shields.io/badge/TG%20Channel-000000?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/waytofreed)
 [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/wtdear)
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/wtdear/)
 
