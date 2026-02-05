@@ -8,27 +8,27 @@
 
 ## 🕸️ Contacts
 
-[<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logoColor=white" />](https://t.me/kolbaya1)
-[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logoColor=white" />](https://leetcode.com/u/wtdear/)
-[<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logoColor=white" />](mailto:den.kolbaya@yandex.ru)
+[<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/kolbaya1)
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/wtdear/)
+[<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:den.kolbaya@yandex.ru)
 
 ---
 
 ## ⚔️ Skills
 
 ### Programming Languages
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
